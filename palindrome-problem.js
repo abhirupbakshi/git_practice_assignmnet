@@ -1,6 +1,6 @@
 // Check if a string is palindrome or not
 
-//let str = "aaa";
+let str = "aaa";
 
 let _str = "";
 for(let i = str.length - 1; i >= 0; i--)
